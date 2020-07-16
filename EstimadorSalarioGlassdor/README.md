@@ -1,4 +1,4 @@
-# Data Science Salary Estimator: Project Overview 
+# Estimador de Salarios em Data Science:
 * Modelo para estimar salários na área de ciência de dados para auxiliar os candidatos negociar seus ganhos quando conseguirem um novo emprego.
 * Scraped mais de 1000 vagas de trabalho do glassdoor utilizando python selenium
 * Features projetadas a partir do texto de cada cargo para quantificar o valor que as empresas empregam em habilidades como python, excel, aws e spark 
