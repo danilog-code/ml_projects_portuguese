@@ -19,4 +19,4 @@ Mestrado e Doutorado em História da Ciência e Tecnologia. Graduação em Ciên
 ## Projectos:
 1. [Data Science Pipeline Project](https://github.com/danilog-code/datascience_portfolio/tree/master/DataSciencePipelineProject)
 
-2. [Estimador de Salário Glassdor](https://github.com/danilog-code/datascience_portfolio/tree/master/EstimadorSalarioGlassdor)
+2. [Estimador de Salário Glassdoor](https://github.com/danilog-code/datascience_portfolio/tree/master/EstimadorSalarioGlassdor)
