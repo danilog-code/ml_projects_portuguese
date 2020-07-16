@@ -3,15 +3,12 @@
 </p>
 
 # Danilo Gustavo Bispo
-<sub>*Data Scientist and Product Owner</sub>
+<sub>*Cientista de Dados</sub>
 
-As a experienced Product Owner and Data Scientist I combine analytical skills, ability to work in team environments. Having spend the last year applying Machine Learning to industry and finance. I developed a critical thinking and problem-solving skills.
-
-I received my PhD in the field of History of Science and Technology from the (PUC-SP) and graduated in Computer Science from the University Paulista.
+Mestrado e Doutorado em História da Ciência e Tecnologia. Graduação em Ciência da Computação com atuação em ciêntista de dados com combinação de habilidades analíticas, desenvolvimento e técnicas de IA.
 
 
-
-**Background in:** Analytics, Machine Learning, Computer Science and Mathematical Statistics.
+**Background in:** Análise, Aprendizagem de Máquina e Estatística.
 
 **Links:**
 * [Lattes](http://lattes.cnpq.br/8693491049685707)
@@ -19,5 +16,7 @@ I received my PhD in the field of History of Science and Technology from the (PU
 * [LinkedIn]
 
 
-## Projects:
-*** coming soon *** 
+## Projectos:
+1. [Data Science Pipeline Project](https://github.com/danilog-code/datascience_portfolio/tree/master/DataSciencePipelineProject)
+
+2. [Estimador de Salário Glassdor](https://github.com/danilog-code/datascience_portfolio/tree/master/EstimadorSalarioGlassdor)
