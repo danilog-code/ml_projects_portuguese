@@ -1,6 +1,6 @@
 # Estimador de Salarios em Data Science:
 * Modelo para estimar salários na área de ciência de dados para auxiliar os candidatos negociar seus ganhos quando conseguirem um novo emprego.
-* Scraped mais de 1000 vagas de trabalho do glassdoor utilizando python selenium
+* Scrapping de 1000 vagas de trabalho do glassdoor utilizando python selenium
 * Features projetadas a partir do texto de cada cargo para quantificar o valor que as empresas empregam em habilidades como python, excel, aws e spark 
  * Otimização Regrassão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
 * Construção de uma interface com api flask 
@@ -49,15 +49,13 @@ Após o scrap, foi preciso limpar os dados para que ficassem utilizáveis em o n
 
 
 ## Análise Exploratória
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+Visualização dasdistribuições dos dados e os valores para as várias variáveis categóricas. Abaixo estão alguns destaques das tabelas dinâmicas. 
 
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salário por posição")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Oportunidades por estado")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlações")
 
 ## Criaçaõ do modelo 
-
-
 Primeiramente foi transformado variáveis categóricas em variáveis dummy. Também foi dividido os dados em treinamento e teste distribuido em 80% e 20% respectivamente.
 
 Foram implementados três modelos diferentes e avaliados utilizando o erro absoluto médio. Foi escolhido essa métrica pela sua facilidade em interpretar e os outliers não interferirem muito para esses tipos de modelo.   
