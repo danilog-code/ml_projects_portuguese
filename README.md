@@ -3,12 +3,12 @@
 </p>
 
 # Danilo Gustavo Bispo
-<sub>*Cientista de Dados</sub>
+<sub>*Ciência e Tecnologia</sub>
 
-Mestrado e Doutorado em História da Ciência e Tecnologia. Graduação em Ciência da Computação com atuação em ciêntista de dados com combinação de habilidades analíticas, desenvolvimento e técnicas de IA.
+mestrado e doutorado em História da Ciência pela Pontifícia Universidade Católica de São Paulo. Graduação em Ciência da Computação. Experiência em ciência da computação com ênfase em desenvolvimento de sistemas, análise de dados, aprendizagem de máquina e teoria da computação. Atuação no mercado nos ramos de automação industrial, comercial e financeiro. Atualmente realizando pesquisa no campo de ciência de dados com utilização extensiva de ambiente de big data e técnicas de inteligência artificial.
 
 
-**Background in:** Análise, Aprendizagem de Máquina e Estatística.
+**Background in:** Computação, Estatística, Ciência de Dados.
 
 **Links:**
 * [Lattes](http://lattes.cnpq.br/8693491049685707)
