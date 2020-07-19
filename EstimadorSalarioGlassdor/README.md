@@ -16,7 +16,7 @@
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 Ajuste do script web scraper do github (acima) obter 1000 postagens de trabalho do glassdoor.com. A cada etapa, extraímos as seguintes features:
-*	Titulo da Vaga
+*	Titulo
 *	Estimativa_Salarial
 *	Descricao_Vaga
 *	Avaliacao
