@@ -2,7 +2,7 @@
 * Modelo para estimar salários na área de ciência de dados para auxiliar os candidatos negociar seus ganhos quando conseguirem um novo emprego.
 * Scrapping de 1000 vagas de trabalho do glassdoor utilizando python selenium
 * Features projetadas a partir do texto de cada cargo para quantificar o valor que as empresas empregam em habilidades como python, excel, aws e spark 
- * Otimização Regrassão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
+ * Otimização Regressão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
 * Construção de uma interface com api flask 
 
 ## Código e recursos utilizados 
@@ -16,7 +16,7 @@
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 Ajuste do script web scraper do github (acima) obter 1000 postagens de trabalho do glassdoor.com. A cada etapa, extraímos as seguintes features:
-*	Titulo
+*	Titulo da Vaga
 *	Estimativa_Salarial
 *	Descricao_Vaga
 *	Avaliacao
