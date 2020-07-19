@@ -62,7 +62,6 @@ Foram implementados três modelos diferentes e avaliados utilizando o erro absol
 
 Dentreo os modelos estão:
 *	**Multiple Linear Regression** – Baseline para o modelo
-*	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 *	**Lasso Regression** - Devido ao fato dos dados das muitas variáveis ​​categóricas serem esparsos, pensei que uma regressão normalizada como o laço seria eficaz
 *	**Random Forest** – Novamente, com a escassez associada aos dados, pensei que seria um bom ajuste. 
 
