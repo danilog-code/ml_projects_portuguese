@@ -1,8 +1,8 @@
-# Estimador de Salarios em Data Science:
+# Estimador de Salários em Data Science:
 * Modelo para estimar salários na área de ciência de dados para auxiliar os candidatos negociar seus ganhos quando conseguirem um novo emprego.
 * Scrapping de 1000 vagas de trabalho do glassdoor utilizando python selenium
 * Features projetadas a partir do texto de cada cargo para quantificar o valor que as empresas empregam em habilidades como python, excel, aws e spark 
- * Otimização Regressão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
+* Otimização Regressão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
 * Construção de uma interface com api flask 
 
 ## Código e recursos utilizados 
@@ -14,7 +14,6 @@
 
 
 ## Web Scraping
-Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 Ajuste do script web scraper do github (acima) obter 1000 postagens de trabalho do glassdoor.com. A cada etapa, extraímos as seguintes features:
 *	Titulo
 *	Estimativa_Salarial
@@ -32,15 +31,13 @@ Ajuste do script web scraper do github (acima) obter 1000 postagens de trabalho 
 
 
 ## Limpeza dos dados
-Após o scrap, foi preciso limpar os dados para que ficassem utilizáveis em o nosso modelo. Fiz as seguintes alterações e criei as seguintes variáveis
+Após o scrap, foi preciso limpar os dados para que ficassem utilizáveis em o nosso modelo. Foram feitas as seguintes alterações e criado as seguintes variáveis
 
-*	Made columns for employer provided salary and hourly wages
-*	Criação de colunas de salário hora 
+*	Criação de colunas de valor hora 
 *	Remoção de linhas que não continham salário 
 *	Criação de nova coluna para informar o estado da companhia 
 *	Conversão de data inauguração da companhia em idade da companhia 
-*	Made columns for if different skills were listed in the job description:
-*	Criada colunas para representar diferentes habilidades que foram listadas na descrição da vaga como:
+*	Criada colunas para representar diferentes habilidades diferenciais que foram listadas na descrição da vaga como:
     * Python  
     * R  
     * Excel  
@@ -59,7 +56,7 @@ Foram implementados três modelos diferentes e avaliados utilizando o erro absol
 
 Dentreo os modelos estão:
 *	**Multiple Linear Regression** – Baseline para o modelo
-*	**Lasso Regression** - Devido ao fato dos dados das muitas variáveis ​​categóricas serem esparsos, pensei que uma regressão normalizada como o laço seria eficaz
+*	**Lasso Regression** - Devido ao fato dos dados das muitas variáveis categóricas serem esparsos, pensei que uma regressão normalizada como o laço seria eficaz
 *	**Random Forest** – Novamente, com a escassez associada aos dados, pensei que seria um bom ajuste. 
 
 ## Performance do modelo
