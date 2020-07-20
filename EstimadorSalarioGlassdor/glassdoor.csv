@@ -1,0 +1,672 @@
+Titulo,Estimativa_Salarial,Descricao_Vaga,Avaliacao,Nome_Companhia,Localizacao,Tamanho,Fundamento,Tipo_Propriedade,Industria,Setor,Receita,Concorrencia,Valor_hora,Salario_empregrador,min_salario,max_salario,Companhia_txt,UF,Idade_companhia,python_yn,R_yn,spark,aws,excel
+Cientista de Dados,-1,"Bacharel em áreas relevantes, por exemplo, matemática, análise de dados ou ciência da computação, Inteligência Artificial (IA); três anos de experiência em crédito pelo mestrado; cinco anos de experiência em crédito para um doutorado
+O candidato deve ser proficiente no uso do Power BI, Tableau, Python, MATLAB, Microsoft Word, PowerPoint, Excel e conhecimento de trabalho do MS Access, LMS, SAS, ferramentas de visualização de dados e ter uma forte aptidão algorítmica
+Excelentes habilidades de comunicação verbal e escrita e habilidades analíticas quantitativas são necessárias
+O candidato deve ser capaz de trabalhar em um ambiente de equipe
+
+Responsabilidades: O candidato será responsável por formular soluções analíticas para problemas complexos de dados; criar modelos de análise de dados para melhorar as métricas de dados; analisar o comportamento e as tendências do cliente; fornecer insights para as partes interessadas, bem como projetar e elaborar relatórios, painéis, modelos e algoritmos para tornar os insights de dados acionáveis; selecionando recursos, construindo e otimizando classificadores usando técnicas de aprendizado de máquina; mineração de dados usando métodos de ponta, estendendo os dados da organização com fontes de informações de terceiros quando necessário; aprimorando os procedimentos de coleta de dados para incluir informações relevantes para a construção de sistemas analíticos; processamento, limpeza e verificação da integridade dos dados usados ​​para análise; fazendo análises ad-hoc e apresentando resultados de maneira clara; e criação de sistemas automatizados de detecção de anomalias e rastreamento constante de seu desempenho.
+Benefícios:
+Oferecemos salários competitivos compatíveis com a educação e a experiência. Temos um excelente pacote de benefícios que inclui:
+Seguro de saúde abrangente, odontológico, vida, longo e curto prazo para invalidez
+Planos de Aposentadoria 100% financiados pela Companhia
+Planos generosos de férias, férias e subsídios por doença",-1,Tecolote,São Paulo,-1,-1,Privada,-1,Varejo,,,0,0,0,0,,SP,,,,,,
+Cientista de Dados,-1,"Cientista de dados
+
+Estamos procurando um cientista de dados para se juntar à nossa equipe de ciência de dados para trabalhar em projetos interessantes para ajudar nossos clientes a criar soluções orientadas a dados. Como cientista de dados, você trabalhará em estreita colaboração com os clientes para entender suas necessidades de negócios, enquadrá-los como problemas estatísticos e resolvê-los com técnicas de ponta. Colabore com sua equipe, incluindo engenheiros de aprendizado de máquina, engenheiros de dados, analistas e TPMs para definir tarefas, fornecer estimativas e trabalhar em conjunto para fornecer uma solução de classe mundial. O candidato ideal terá o equilíbrio de habilidades técnicas e perspicácia nos negócios para ajudar o cliente a entender melhor suas principais necessidades e a entender as limitações técnicas.
+
+Habilidades requiridas
+Experiência em parceria e comunicação com a equipe de gerenciamento executivo para entender as necessidades e os pontos negativos da empresa
+Capacidade de comunicar conceitos de ciência de dados às partes interessadas do negócio
+Paixão pela aplicação do aprendizado de máquina a problemas do mundo real
+Adequado para desenvolver e iterar soluções rapidamente
+Capacidade de liderar o desenvolvimento de soluções de ciência de dados
+O que oferecemos aos nossos consultores:
+
+Experiência em trabalhar com grandes clientes corporativos e clientes de médio porte
+Responsabilidades progressivas que incentivam a propriedade e o design
+Oportunidade de aprender e ganhar experiência em habilidades complementares, como facilitação de reuniões, gerenciamento de dados, gerenciamento de projetos, modelagem de dados e gerenciamento de dados
+Cultura da empresa que celebra “Incentive a cultura de nós”, “Aja com integridade” e “Dirija-se à excelência” enquanto se diverte no trabalho
+Oportunidades de treinamento e certificação para apoiar sua carreira agora e depois da Logic20 / 20
+Várias oportunidades para retribuir à comunidade através de eventos patrocinados pela empresa
+Qualificações requeridas
+Experimente criar modelos de aprendizado de máquina usando Python
+Experiência na implantação de modelos de aprendizado de máquina em um ambiente de produção
+Forte conhecimento das estatísticas de probabilidade
+Experiência com Tensorflow ou PyTorch",-1,Rochester Health,São Paulo,-1,-1,Privada,-1,Helth,,,0,0,0,0,,SP,,,,,,
+Cientista de Dados,-1,"Se você é altamente analítico, desfruta de um ambiente de trabalho colaborativo que incentive a orientação e o aprendizado e tem uma forte curiosidade intelectual para resolver problemas dos clientes, a nossa equipe de Ciência de Dados pode ser o local ideal para você.
+O que você vai fazer
+
+
+O candidato certo terá fortes habilidades de comunicação, capacidade de trabalhar bem de forma independente e colaborativa e um talento especial para resolver problemas ambíguos. Você deve ter experiência com técnicas de aprendizado de máquina, estatística, mineração de dados e interesse em criar modelos preditivos em tempo real em escala. Nossa pilha de ciência de dados inclui Google Cloud, BigTable, Spark (Scala e Python), Postgres e a pilha de ciência de dados padrão do Python (Numpy, Pandas)
+Crie e expanda uma ampla variedade de modelos de ciência de dados que preveem a classificação de eventos e previsões de receita, calculam o preço ideal do leilão e otimizam as operações internas (pontuação de leads)
+Fornecer óptica e suporte para a equipe de ciência de dados para avaliar o desempenho dos modelos
+Desenvolva algoritmos para automatizar o treinamento dinâmico de modelos para nos manter operando com desempenho máximo
+Execute análises estruturais de séries temporais e testes A / B para avaliar o impacto de ajustes de produtos e modelos
+Otimize sistemas correspondentes que conectam proprietários e profissionais
+Comunique resultados técnicos a um amplo público
+O que você traz
+Um desejo de trabalhar em um ambiente colaborativo e intelectualmente curioso.
+Mestrado ou doutorado em estatística, econometria, física, matemática ou campo quantitativo similar
+Mais de 2 anos de experiência prática em modelagem preditiva e análise de dados
+Forte conhecimento das técnicas de aprendizado de máquina, análise de dados e mineração de dados
+Proficiência em trabalhar com bancos de dados relacionais e SQL
+Experiência em trabalhar em Python (ou linguagem de script semelhante como R)
+Fortes habilidades de comunicação",-1,Creditas,São Paulo,-1,-1,Privada,-1,Financeira,,,,,,,,,,,,,,
+Engenheiro de dados Pleno,-1,"Estamos com uma oportunidade no time de Delivery DA onde o
+profissional atuará frente à arquitetura da área e,
+trabalhando com plataformas
+proprietárias e com outras tecnologias de mercado. A missão deste profissional será
+entregar suas demandas e projetos, com qualidade, no prazo, com ética e
+trabalho em equipe. Suportar os times de projeto e de pré-vendas, além de
+desenvolver soluções para automação de tarefas.
+
+Dentre as atividades deste profissional podemos destacar:
+
+- Analisar requisitos funcionais do cliente e fornecer uma
+arquitetura de sistemas compatível com nossas soluções e as novas ferramentas
+de mercado;
+
+- Fornecer estimativas de esforço;
+
+- Desenvolver Provas de Conceito que suportem as decisões de
+arquitetura, seja antes ou durante os projetos.
+
+Para isso é importante que o profissional tenha Ensino
+superior completo e inglês intermediário (possível para conversação/call). Ele
+deve conhecer integração com webservices SOAP e Restful, WebServers e
+Banco de Dados.
+
+Será considerado diferencial se este profissional tiver pós
+graduação, inglês avançado, conhecimento
+de containers, Jenkins, Git, Bitbucket.
+
+Essencial que este Analista percorra bem entre áreas e clientes, tenha facilidade em aprender e em compartilhar conhecimento com a equipe.
+
+Curtiu o desafio e quer fazer parte desse time? Candidate-se e venha construir um amanhã melhor.",4,"Experian
+4.0",São Paulo,-1,-1,-1,-1,-1,-1,-1,0,0,53,91,"Tecolote Research
+", NM,47,1,0,0,0,1
+Operador de Computador - Sistemas Z,-1,"Introdução
+Na IBM, o trabalho é mais que uma tarefa. É um chamado para construir. Para projetar. Para codificar. Para consultar. Para pensar junto com os clientes e vender. Para construir mercados. Para inventar. Para colaborar. Não apenas para fazer algo melhor, mas para tentar coisas que você nunca imaginou serem possíveis. Para liderar nesta nova era da tecnologia e resolver alguns dos problemas mais desafiadores do mundo.
+
+Seu papel e responsabilidades
+
+O Operador de Sistemas Z monitora e controla a operação do hardware e software do mainframe, monitorando os consoles do sistema para garantir a integridade e a operação normal dos sistemas e trabalhando com as demais equipes de Programadores, Analistas de Suporte e Produção na identificação e correção de problemas.
+
+Para concorrer a posição, você precisará concluir o treinamento gratuito ""Master The Mainframe"" no link: www.masterthemainframe.com
+Oops, I have a problem!
+Precisa de um help sobre o Master the Mainframe, ou só quer se conectar com a equipe da Iniciativa Z? Eles estão no slack! http://ibm.biz/slackiniciativaz
+
+SYSzArt19
+
+Profissional Requerido e Conhecimento Técnico
+Cursos técnicos ou superior em Tecnologia da Informação.
+Inglês - Nível avançado
+Disponibilidade para trabalhar em Hortolândia
+Disponibilidade para trabalhar em horários deslocados (turnos noturnos e escalas, incluindo finais de semana e feriado)
+Para concorrer a posição, você precisará concluir os dois primeiros módulos do treinamento gratuito ""Master The Mainframe"" no link: http://ibm.biz/ibmmainframe
+
+Profissional Preferencial e Conhecimento Técnico
+Experiencia /Conhecimento em Mainframe
+
+Sobre a unidade de negócios
+Na Global Technology Services (GTS), ajudamos nossos clientes a vislumbrar o futuro, oferecendo serviços de suporte de TI e tecnologia de ponta a ponta, apoiados por uma rede de entrega global incomparável. É essa combinação única de novas ideias ousadas e de colocar o pensamento primeiro no cliente. Se você pode se reinventar incansavelmente e resolver problemas de novas maneiras, trabalhar em projetos de tecnologia e negócios e perguntar: ""O que mais é possível?"" O GTS é o lugar certo para você!
+
+Sua vida na IBM
+O que importa para você na procura por seu próximo desafio na carreira? Talvez você queira se envolver em um trabalho que realmente mude o mundo. Que tal um lugar com oportunidades de carreira e desenvolvimento incríveis e diversificadas, onde você pode verdadeiramente descobrir sua paixão? Está procurando uma cultura de abertura, colaboração e confiança na qual todos têm voz? E quanto a tudo isso? Em caso afirmativo, a IBM poderia ser o próximo desafio de sua carreira. Junte-se a nós, não para fazer algo melhor, mas para experimentar coisas que você nunca imaginou. Impacto. Inclusão. Experiências ilimitadas. Faça o seu melhor trabalho sempre.
+
+Sobre a IBM
+A IBM é uma empresa líder em soluções de plataforma e cognitiva em nuvem. Reinventando incansavelmente desde 1911, somos o maior empregador de tecnologia e consultoria do mundo, com mais de 380.000 funcionários atendendo clientes em 170 países. Com o Watson, a plataforma de IA para empresas, impulsionada por dados, estamos construindo soluções baseadas na indústria para problemas do mundo real.
+
+Declaração de localização
+Para obter informações adicionais sobre os requisitos de localização, entre em contato com o recrutador responsável por acompanhar sua candidatura.
+
+Sendo você na IBM
+A IBM é comprometida com a criação de um ambiente diverso e tem orgulho de ser uma empregadora de oportunidades iguais. Todos os candidatos qualificados serão considerados para a vaga, sem considerar a raça, cor, religião, sexo, identidade ou expressão sexual, orientação sexual, nacionalidade, genética, deficiência, idade ou status como veterano. A IBM também está comprometida com o cumprimento de todas as práticas trabalhistas justas com relação ao status de cidadania e imigração.",4,"IBM
+4.0",Hortolândia,-1,-1,-1,-1,-1,-1,-1,0,0,63,112,"University of Maryland Medical System
+", MD,36,1,0,0,0,0
+Cientista de Dados,-1,"Sua stack é Sistema? A @Datum quer adicionar você!
+
+Na nossa rede você encontra:
+Pessoas conectadas na vida real;
+Inovação que vai além das telas;
+Um mundo cheio de desafios;
+Ética e transparência nas relações;
+Ambiente ágil, do tipo visualizado e respondido!
+Você pode se conectar com a oportunidade se possuir:
+Sólida experiência com projetos de integração usando Web Service (SOAP);
+Experiência em metodologias ágeis, como Scrum e Kanban;
+Experiência em entrevista com usuário;
+Foco em entregas;
+Sistema Operacional Linux;
+Sistema Operacional Windows;
+Banco de dados Oracle (intermediário);
+Banco de dados SQL (intermediário);
+Banco de dados Mongo (básico).
+Vamos dar like se você possuir:
+Conhecimento em Java
+Conhecimento em Javascript;
+Inglês intermediário;
+Espanhol intermediário;
+Excelente relacionamento interpessoal;
+Senso de urgência;
+Iniciativa e trabalho em equipe;
+Resiliência.
+E aí, quer participar do nosso time?
+
+É simples, basta clicar e enviar o seu currículo.
+
+Na Datum #TodosAvançamJuntos",3.8,"Datum
+3.8",Porto Alegre,-1,-1,-1,-1,-1,-1,-1,0,0,80,90,"KnowBe4
+", FL,10,1,0,1,0,1
+Cientista de Dados Pleno,-1,"VP Chief Information Officer
+
+Dir. Transformação e Projetos B2C
+
+Local de Trabalho: São Paulo | Eco Berrini
+
+Soluções inovadoras, com diferenciais eficientes e competitivos, são a matéria-prima de quem atua com Tecnologia da Informação na Telefônica. Esta é a área que faz a gestão dos sistemas de informação para trazer ainda mais qualidade, flexibilidade e agilidade. O resultado é uma empresa cada vez mais digital e com propostas de valor mais robustas para os nossos clientes. Se identificou? Então esta oportunidade é para você.
+
+Analista de sistema responsável pela configuração de parâmetros de negócio dentro do sistema legado; suporte a atividades co-relacionadas, incluindo mas não limitada a desenvolvimento de ferramentas de suporte as parametrizações da área.
+
+Responsabilidades e atribuições
+
+Entender a solução definida pela equipe de scoping ;
+
+Realizar configuração do sistema fullstack, por planilha de excel ou por interface gráfica;
+
+Criar sql scripts para validação de configurações em banco de dados;
+
+Fazer mapeamento de informações (de-para) para suporte a migração de clientes de sistemas legados para o novo sistema fullstack;
+
+Interagir com áreas de negócio para levantamento de dados a serem configurados no sistema;
+
+Participar de sanity de implantação como ponto de contato da configuração e suporte à dúvidas;
+
+Suportar as equipes de QA (Quality Assurance) na execução dos testes.
+
+Requisitos e qualificações
+
+Graduação em Ensino Superior em Sistemas da Informações Engenharia ou similares;
+
+Experiência na implantação de projetos (desejável Telecom).
+
+Conhecimento de ferramentas Office;
+
+Conhecimento de, Unix, SQL e Banco de Dados;
+
+Conhecimento de Inglês (intermediário) será um diferencial.
+
+Informações adicionais
+
+O que oferecemos para você?
+
+Ser você quer usar um dress code que respeita sua individualidade;
+
+Usufruir de um horário flexível, trabalho remoto e day off;
+
+Programa voluntário e férias solidárias para você transformar o mundo;
+
+Participar do programa de participação de resultados;
+
+Escolher seus benefícios numa plataforma digital, com opções que vão de academia, VR e VA, Ass Médica e Odontológica até Seguro de vida.;
+
+Se você é mãe ou pai, pode receber ajuda extra para as despesas com a escola, creche ou babá dos filhos;
+
+Ter um plano com dados ilimitado e ganhar um aparelho celular moderno;
+
+Usar as ofertas Vivo, com desconto especial em linha fixa, banda larga e TV;
+
+Além dos cursos online, o nosso Programa de Desenvolvimento Educacional oferece parcerias em instituições de ensino gerando desconto aos colaboradores
+
+Tem mais, mas você tem que se candidatar para saber ...
+De acordo com a política de elegibilidade determinada pela empresa.
+Se você possui os requisitos acima, é movido por resultados, positivo (a), organizado (a), tem, flexibilidade e dinamismo, não deixe de se inscrever!
+
+#VEMPRAVIVO
+
+Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas",4.1,"Vivo (Telefônica Brasil)
+4.1",São Paulo,-1,-1,-1,-1,-1,-1,-1,0,0,56,97,"PNNL
+", WA,55,1,0,0,0,0
+Cientista de Dados Pleno,-1,"Efetivo (CLT)Período Integral
+
+Cientista de Dados
+Local: Campinas – São José/SC
+
+Empresa em expansão com ótimas possibilidades de crescimento;
+
+Participação ativa no desenvolvimento de um produto inovador, com tecnologias de ponta e grande exigência técnica; Ótimo ambiente de trabalho;
+
+Empresa com certificação MPS.BR.
+
+Atividades:
+Discutir, analisar e documentar as necessidades e requisitos dos clientes, propondo as melhores;
+Redigir e atualizar as fichas de descrição dos requisitos e a documentação UML das funcionalidades;
+Discutir e esclarecer para os desenvolvedores as funcionalidades a serem implementadas nos sistemas mantidos pela empresa;
+Acompanhar o desenvolvimento das funcionalidades, verificando se o desenv. está atendendo aos requisitos analisados;
+Gerenciar as questões que surgem no decorrer do processo de desenvolvimento das funcionalidades, entrando em contato com o cliente para esclarecer dúvidas, requisitando mais informações e propondo as melhores soluções para atender às suas necessidades;
+Apresentar e validar as funcionalidades desenvolvidas pela equipe com cliente ou com o analista de negócio responsável.
+Parametrizar, implantar e operacionalizar novas funcionalidades ou novos projetos desenvolvidos pela equipe nos produtos da Empresa;
+Requisitos:
+Desejável curso superior completo em Sistemas de Informação, Ciências da Computação ou correlatos.
+Desejável experiência da área de análise de sistemas;
+Desejável conhecimento em Linguagem SQL e lógica de programação.
+Conhecimentos técnicos: Linguagem UML, Ergonomia de software, Inglês Técnico.
+Horário: Segunda à sexta das 9h às 13h e das 14h às 18h
+
+Salário: de R$ 3.667,60 à R$ 4.453,52
+
+Benefícios:
+V.A. R$ 20,00 por dia útil;
+Vale Transporte;
+Plano de Saúde e Plano Odontológico (após período de experiência).
+Enviar currículo para nosso e-mail com o assunto: “Cientista de Dados”
+
+Salário: R$ 3.667,60
+
+Responsável: Incubadora
+
+Exigências
+
+Ensino Superior
+
+Benefícios
+
+Assistência Médica, Assistência Odontológica, Vale Alimentação, Vale Transporte",4.1,Incubadora de Talentos,São José,-1,-1,-1,-1,-1,-1,-1,0,0,86,143,"Affinity Solutions
+", NY,22,1,0,0,0,1
+Cientista de Dados,-1,"Venha ser um digital transformer com a Datainfo. Somos uma empresa CMMI Dev nível 03, certificada Great Place To Work e em expansão na região de Porto Alegre.
+
+Se você está em busca de desafios e tem a intenção de crescer em uma das 200 maiores empresas de TI do Brasil, chegou a hora: preencha seu currículo, queremos transformar junto com você.
+
+Responsabilidades e atribuições
+
+Criar e alterar o modelo de dados de sistemas diversos;
+Entender e dar manutenção às rotinas das aplicações;
+Desenvolver scripts para alteração, deleção de dados na base de acordo com as necessidades.
+Análise de negócios;
+Análise de processos;
+
+Requisitos e qualificações
+
+Ensino superior completo ou Pós-graduação na área de TI.
+Ciclo de desenvolvimento de software e com sustentação de sistemas.
+
+Informações adicionais
+
+Para atuar em órgão público no Rio grande do Sul.",3.2,"Datainfo
+3.2",Porto Alegre,-1,-1,-1,-1,-1,-1,-1,0,0,71,119,"CyrusOne
+", TX,20,1,0,0,1,1
+Analista Sistemas Pl,-1,"Vice-Presidência TI
+
+Dir Projetos e Suporte Infraestrutura
+
+Local: São Paulo - SP | Prédio Av Chucri Zaidan, 860
+
+Soluções inovadoras, com diferenciais eficientes e competitivos, são a matéria-prima de quem atua com Tecnologia da Informação na Telefônica. Esta é a área que faz a gestão dos sistemas de informação para trazer ainda mais qualidade, flexibilidade e agilidade. O resultado é uma empresa cada vez mais digital e com propostas de valor mais robustas para os nossos clientes. Se identificou? Então esta oportunidade é para você.
+
+Responsabilidades e atribuições
+
+Analisar e acompanhar a performance de ambientes de missão crítica, suas integrações e subsistemas, incluindo conhecimentos avançados na identificação e gerenciamento de workloads, performance sistêmica e pontos de contenção;
+Identificar, coletar e acompanhar indicadores sistêmicos, de negócio dos sistemas e de infraestrutura computacional;
+Planejar e realizar testes de desempenho (Load and Stress Testing);
+Analisar mediante técnicas de teste de desempenho (Performance, load e Stress Testes) o impacto das volumetrias previstas pelos projetos de negócio na infraestrutura de TI;
+Interagir com as áreas de negócio e TI, além de realizar reuniões de briefing para definição das necessidades e análises;
+Identificar, avaliar e resolver problemas de desempenho e capacidade na camada de aplicação, banco de dados e sistema operacional, onde a análise requer uma avaliação aprofundada de fatores variáveis;
+Efetuar troubleshooting de performance, propondo otimizações/oportunidades de melhoria sistêmica;
+Construir e organizar as análises usando, Excel, Powerpoint, Power BI ou demais ferramentas de apresentação.
+
+Requisitos e qualificações
+
+Graduação completa em Ciências da Computação e/ou correlatas;
+Experiência com performance;
+Experiencia na realização de Testes de Desempenho com uso de ferramentas LoadRunner e/ou Jmeter;
+Experiência e conhecimento de arquitetura JAVA (SOA, Weblogic) e/ou Bancos de Dados Oracle e MS SQL;
+Otimização de desempenho de bancos e/ou middleware (Tunning);
+Troubleshooting de servidores de aplicação Oracle Weblogic;
+Conhecimentos em JAVA para realizar analises;
+Análise de performance/troubleshooting em servidores Oracle Weblogic;
+Garbage Collector, Thread Dump, Thread Pool, Filas JMS, Stuck Threads, Heap Dump, Profiling de JVM;
+Ambientes monoliticos e microserviços;
+
+Informações adicionais
+
+Na Vivo não medimos esforços em apoiar e valorizar nossos colaboradores!
+
+Não são apenas excelentes benefícios, mas também flexíveis. Veja o que ofereceremos* para você:
+Escolher o benefício ideal para você e seus dependentes, numa plataforma digital com diversas categorias de Academia, VR, VA, Auxilio Farmácia, Assistência Médica, Odontológica e Seguro de Vida;
+Celular corporativo. Sim, um smartphone novinho para você!
+Plano de voz e Dados ilimitado! Sim ilimitado! O 4,5G da Vivo é até 10 vezes mais rápido!
+Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+Terá direito a receber Bônus ou PPR anual;
+Planejará seu futuro através do plano de Previdência Privada;
+Tem filhos? Terá direito a um subsidio para ajudar nas despesas com escola, creche ou babá;
+Viver em um ambiente que respeitará sua personalidade, seu estilo de se vestir, seu jeito de ser e poderá ser autêntico. #VemdeVocê
+Trabalhar remotamente até 2 vezes por semana. #Mobility
+Ter flexibilidade de horário;
+Aproveitar um dia de folga (Day off) para comemorar seu aniversário;
+Participar de um dos maiores programas de voluntariado corporativo para você transformar o mundo;
+Usufruir do nosso Programa de Desenvolvimento Educacional que oferece parcerias em instituições de ensino com desconto; certificações e cursos online;
+Potencializar sua carreira por meio do nosso Programa de Recrutamento Interno, no Brasil ou fora, afinal estamos presentes em mais de 17 países! #VivoMinhaCarreira
+E tem muito mais! Mas, você tem que se candidatar para saber... *De acordo com a política de elegibilidade determinada pela empresa. #VEMPRAVIVO Todas as nossas vagas são elegíveis a pessoas com deficiência e/ou reabilitados. Temos uma cultura que valoriza a diversidade, as diferenças e o potencial das pessoas!
+
+VP Pessoas | Vivo (Telefônica Brasil)",4.1,"Vivo (Telefônica Brasil)
+4.1",São Paulo,-1,-1,-1,-1,-1,-1,-1,0,0,54,93,"ClearOne Advantage
+", MD,12,0,0,0,0,1
+Cientista de Dados,-1,"Desenvolvimento de software para os sistemas do Registro.br
+
+Área
+
+Engenharia
+
+Local
+
+São Paulo, SP – Brooklin (região da Berrini)
+
+Formação
+
+Graduação em Ciência da Computação, Engenharia ou cursos afins
+
+Necessário
+
+Experiência com linguagem Go e/ou C++;
+Desenvolvimento de sistemas em ambiente Unix-like;
+Conhecimento de Design Patterns;
+Conhecimentos sólidos de estrutura de dados e algoritmos;
+Git;
+Inglês avançado.
+
+Desejável
+
+Experiência com sistemas REST;
+Conhecimento dos protocolos TCP/IP, DNS e DNSSEC;
+
+Competências comportamentais desejáveis
+
+Pró-atividade;
+Comprometimento;
+Responsabilidade.",3.8,"Núcleo de Informação e Coordenação do Ponto BR
+3.8",São Paulo,-1,-1,-1,-1,-1,-1,-1,0,0,86,142,"Logic20/20
+", CA,15,1,0,1,1,1
+Cientista de Dados Pleno,-1,"Requisitos: Curso superior completo na área de TI, desejável especialização na área. Experiência em PLSQL Oracle e algum ERP de mercado (Oracle EBS, SAP, Totvs ou outros). Conhecimento em alguma linguagem de desenvolvimento para WEB, Java e Webservices. Inglês Intermediário.
+Atribuições: Desenvolve sistemas a partir da análise de informações, estudando fluxos de trabalho, necessidades de recursos para propor alterações de rotina e elaborar propostas. Implanta e mantém sistemas, observando eficiência, racionalidade e solução de problemas técnicos. Executa testes, elabora manuais, ministra treinamentos e presta suporte técnico aos usuários.
+Unidade de atuação: Gravataí/RS
+Nº de vagas: 1
+Benefícios: Remuneração compatível com o mercado, refeitório no local, Assistência Médica e Odontológica, Seguro de Vida em Grupo e PPLR.
+
+Pessoas com Deficiências (PCD´S) são bem vindas em nossa equipe, envie seu currículo!
+Interessados encaminhar currículo com vaga no assunto e pretensão salarial para: recrutamento.gravatai@mundial.com",3.8,"Mundial SA
+3.8",Gravataí,-1,-1,-1,-1,-1,-1,-1,0,0,38,84,"Rochester Regional Health
+", NY,6,0,0,0,0,0
+Cientista de Dados Pleno,-1,"Efetivo (CLT)Período Integral
+
+Atuar no desenvolvimento e manutenção dos produtos oferecidos pela empresa e criação de ferramentas que auxiliem o time de Suporte Técnico.
+
+Conhecimento em sistema operacional Linux.
+
+Conhecimentos na linguagem JAVA, J2EE e Hibernate.
+
+Ter trabalhado com programação de sistemas web. Conhecimento de estrutura de programação MVC.
+
+Desejável experiência em programação no Framework Grails.
+
+Salário: à combinar
+
+Responsável: Erica
+
+Exigências
+
+Ensino Superior
+
+Benefícios
+
+Assistência Médica, Assistência Odontológica, Auxílio Creche, Participação nos Lucros, Seguro de Vida, Vale Refeição, Vale Transporte",4.6,"Isolutions
+4.6",São Paulo,-1,-1,-1,-1,-1,-1,-1,0,0,120,160,"<intent>
+", NY,11,1,0,1,0,0
+Cientista de Dados e Projetos JR,-1,"Nível: Analista
+Área: Tecnologia da Informação
+Escolaridade: Graduação - Tecnologia da Informação - Completo
+Tipo de contrato: CLT
+Jornada de trabalho: SEG/SEX DAS 8 AS 17HS
+
+Benefícios: Vale refeição, Vale transporte, Assistência médica, Assistência odontológica
+
+O que você vai fazer: Levantamento de requisitos de projetos definidos em portfolio com acompanhamento de desenvolvimento e documentação
+Garantia de desenvolvimento de projeto com acompanhamento através de métodos ágeis.
+Administram ambiente informatizado, elaboram documentação técnica. Acompanha desenvolvimento de projetos e oferecem soluções para ambientes informatizados e pesquisam tecnologias em informática
+Extração de documentos banco de dados.
+Elaborar documentação para os sistemas e aplicações de fácil entendimento, visando a melhor interpretação dos programadores;
+Efetuar o levantamento das informações através de entrevistas com os clientes finais e gestores de desenvolvimento, visando elaborar os processos que serão utilizados na confecção dos sistemas e aplicações levantamento de todas as ferramentas necessárias para o desenvolvimento do projeto;
+Monitorar a performance do sistema e aplicação, identificando e corrigindo falhas e executando procedimentos para melhorias;
+Orientar as áreas simulando problemas em ambiente controlado quando necessário ou acionando suporte;
+Ajudar na melhoria dos processos e funções, negociando alternativas de solução, propondo adoção de novos métodos",4,"Work4all
+4.0",Itapevi,-1,-1,-1,-1,-1,-1,-1,0,0,126,201,"Wish
+", CA,9,1,0,0,0,0
+Cientista de Dados de Negócio,-1,"Estamos buscando um profissional que vai nos ajudar no atendimento das demandas de diversos clientes internos diferentes.
+
+Se você gosta de desafio, acha muito legal transformar a vida das pessoas e gosta de trabalhar de forma colaborativa, você é a pessoa que estamos buscando e temos uma oportunidade para você compor o nosso time de Sistemas Administrativos.
+
+Aqui valorizamos a experiência dos nossos usuários, construímos os melhores produtos para eles e ainda ajudamos as comunidades a se desenvolverem.
+
+Aqui você tem:
+Oportunidade de Crescimento profissional trabalhando com um time de primeira;
+
+Autonomia para trabalhar e construir junto todas as soluções;
+
+Um excelente ambiente de trabalho, com um time diferenciado e acolhedor;
+
+Uma gestão compartilhada e respeito com as opiniões;
+
+Respeito pelas diferenças;
+
+Tudo isso, em um ambiente com pessoas inspiradas por tecnologia, por inovação e por fazer o bem, capazes e engajadas para construir uma experiência diferenciada para nossos colaboradores e associados.
+
+Responsabilidades e atribuições
+
+Para essa posição, esperamos que você:
+Faça a análise completa do negócio e do sistema, pensando no produto de ponta-a-ponta;
+
+Acompanhe o desempenho do sistema através de análises e validações;
+
+Entenda as necessidades e requisitos em formato ágil (user stories ou similar);
+
+Atue como facilitador do processo de desenvolvimento do sistema;
+
+Se preocupe com o refinamento de backlog;
+
+Conheça técnicas de elaboração de roadmap e priorização;
+
+Tenha vivência com métodos ágeis de desenvolvimento de software;
+
+Também seria legal que você tivesse:
+Conhecimento de mercado financeiro e das legislações aplicáveis;
+
+Conhecimento técnico em desenvolvimento de sistemas;
+
+Conhecimento de técnicas de UX.
+
+Requisitos e qualificações
+
+Para compor nosso time é importante que você:
+Goste de trabalhar em equipe;
+Tenha iniciativa e proatividade;
+Tenha curiosidade para aprender e disponibilidade de ensinar.
+Informações adicionais
+
+O mundo está cada vez mais humano e colaborativo. E quando pessoas se juntam em um mesmo propósito, a mudança acontece. Nós acreditamos que o jeito de cuidar do seu dinheiro deve acompanhar esse movimento.
+
+Somos o Sicredi: a solução inteligente e colaborativa para o seu desenvolvimento financeiro. Defendemos que a melhor escolha é sempre o que for melhor para todos.
+
+É por isso que o Sicredi é seu, meu e nosso. Somos muitos e somos próximos uns dos outros. Aqui os nossos valores cuidam dos seus.
+
+É assim que criamos nossos laços de confiança. Unimos vontade e capacidade para fazer do Sicredi o seu Sicredi. Afinal, ser colaborativo é o melhor caminho para crescermos juntos.
+
+Muito prazer, somos uma instituição financeira cooperativa feita por pessoas e para pessoas. Vem fazer a diferença!",4.2,"Sicredi
+4.2",Porto Alegre,-1,-1,-1,-1,-1,-1,-1,0,0,64,106,"ManTech
+", VA,52,0,0,0,0,0
+Cientista de Dados,-1,"Local: Santa Bárbara d'Oeste/SP
+
+Salário: A combinar
+
+Requisitos:
+Ensino superior completo em informática ou área correlatas;
+Experiência em desenvolvimento de sistemas de informática e suporte aos usuários;
+Conhecimentos sistema Totvs-Datasul;
+Inglês avançado;
+Residir na região.
+Observações: Possuir disponibilidade para treinamento em outro estado.",4,"Angela
+4.0",Santa Bárbara d'Oeste,-1,-1,-1,-1,-1,-1,-1,0,0,106,172,"Walmart
+", TX,58,0,0,0,0,0
+Analista de dados,-1,"Atuar fazendo interface de Tecnologia com as áreas CSC (Centro de Serviços Compartilhados), Controladoria/Fiscal e Tributária da Lojas Renner S.A.
+
+Responsabilidades e atribuições
+
+Implementação de projetos nas fases de iniciação, planejamento, execução, controle e finalização. Acompanhar a gestão de Serviço de parceiros Renner com foco em Sustentação dos Sistemas Corporativos e CSC, acompanhando todo o Ciclo de Vida dos serviços.
+Garantir o PDCA entre os processos de Sustentação dos Sistemas Corporativos das Lojas Renner, observando os níveis de serviços acordados com os parceiros prestadores de serviços;
+Apresentar indicadores de desempenho, análises de causa,
+Elaborar de planos de ação, Ishikawa e método de análise e solução de problemas (MASP) e apresentações gerenciais.
+Apoiar as reuniões com clientes internos, envolvendo principalmente áreas cliente como CSC e Controladoria/Fiscal;
+
+Requisitos e qualificações
+
+Superior completo
+Habilidade em negociação de serviços de TI com fornecedores e clientes internos, em liderar projetos pontuais e equipes de força-tarefa.
+Experiência , metodologia de desenvolvimento de sistemas, processos de testes, gerenciamento de projetos, gerenciamento de níveis de serviços contratados.
+Conhecimento relativo a gestão de processos de atendimento (Incidentes, Solicitações, Problemas, Mudanças e Liberações, Configuração e afins), Catálogo de Serviços. Visão Sistêmica/Holística dos serviços de TI.
+Domínio técnico de PL/SQL e Excel.
+Conhecimento de contabilidade e Legislação Fiscal (Mastersaf DW)
+Conhecimento de métodos ágeis
+Inglês avançado
+
+Informações adicionais
+
+Diferenciais:
+Experiência em implantação de projeto complexos de implantação de plataformas tecnológicas;
+Certificação em Gerenciamento de Projetos;
+Certificação em ITIL Foundation;PMI, Ferramentas de Qualidade (5W2H, Pareto, PDCA, etc).
+Certificação de sistemas de retaguarda de automação comercial;
+Conhecimento de ERP (Plataforma EBS);",4.7,"RENNER
+4.7",Porto Alegre,-1,-1,-1,-1,-1,-1,-1,0,0,46,85,"Yesler
+", WA,8,1,0,1,1,1
+Cientista de Dados Pleno,-1,"Efetivo (CLT)Período Integral
+
+Desenvolvimento de sistemas.
+
+Com experiência nas linguagens C#, ASP.NET MVC, CSS, HTML, JavaScript, Jquery, Bootstrap, ferramentas de
+
+versionamento de código (GIT), SQl para Oracle e Microsoft SQL Server.
+
+Graduação em Sistemas da Informação ou áreas afins.
+
+Atuação em Itajaí/SC.
+
+Salário: à combinar
+
+Responsável: Jocimara
+
+Exigências
+
+Disponibilidade para viagens
+Disponibilidade para mudar de resid�ncia
+
+Benefícios
+
+Assistência Médica, Assistência Odontológica, Auxílio Educação, Auxílio Farmácia, Estacionamento, Participação nos Lucros, Refeitório no Local, Seguro de Vida, Vale Transporte",3.4,"Multilog
+3.4",Itajaí,-1,-1,-1,-1,-1,-1,-1,0,0,83,144,"Takeda Pharmaceuticals
+", MA,239,1,0,1,0,0
+Cientista de Dados Pleno,-1,"Especialista de Sistemas
+
+RESPONSABILIDADES
+
+Administração e suporte aos usuários do sistema Oracle Hyperion (Essbase, Planning e HFM)
+Suporte e apoio operacional aos usuários no uso do Oracle smartview.
+Administração e suporte a usuários do sistema Gesplan (WFN Financing e WFN Cash).
+Suporte e apoio operacional aos usuários no uso do Oracle EBS R12.
+Acompanhar fornecedores em projetos e entregas relacionadas a Sistemas.
+Gestão de SLA nos aspectos relacionados a incidentes, problemas e mudanças no processo, bem como criação de métricas de controle de atendimento.
+
+Participar ativamente no comitê de Gestão de mudanças, no acompanhamento e aprovação de changes.
+
+Graduação em cursos de Tecnologia da Informação, como por exemplo, Análise de Sistemas, Ciência da Computação, Engenharia da Computação e Gestão da Tecnologia da informação.
+Capacidade de organização, clareza de comunicação oral/escrita, negociação, priorização de atividades e senso de urgência.
+Possuir conhecimentos em metodologias de desenvolvimento de sistemas, processos de testes e gerenciamento de níveis de serviços contratados.
+Experiência e conhecimentos em metodologias ágeis.
+Conhecimentos em conceitos de previsão, orçamento e planejamento operacional de finanças corporativas.
+Conhecimentos e conceitos de movimentações financeiras, entradas, saídas, receitas e despesas.
+Conhecimento no uso, análise e desenvolvimento de Queries SQL e PL/SQL
+Conhecimentos em Oracle Cloud (Fusion)
+
+DESEJÁVEL
+Certificação ITIL e Cobit
+Certificação OCP
+Conhecimentos em tecnologias Oracle SOA, CRM e ODI.
+Conhecimento em Jira ServiceDesk e Jira Software
+
+Conhecimentos técnicos Oracle EBS R12 para administração (Flexfield, concurrents, lookups, profiles e outros)",3,"Quality
+3.0",Rio de Janeiro,-1,-1,-1,-1,-1,-1,-1,0,0,102,190,"Audible
+", NJ,25,0,0,0,0,1
+Cientista de Dados,-1,"Empresa de tecnologia admite Cientista de Dados em Recife para atuar em Tempo integral, Comercial.
+
+Analisar e desenhar escopo de projeto. Planejar projetos e demandas requisitadas considerando o escopo definido, equipe, cronograma, estratégia e prioridades necessárias. Estabelecer fluxo e procedimentos de homologação das entregas. Garantir entregas dentro do prazo acordado, considerando o nível de alta qualidade. Gerar e manter a documentação técnica organizada. Acompanhar equipe de Programadores.
+
+É oferecido contrato Efetivo, Beneficios a combinar /
+vaga cód: 1939209",3.2,"Kurier
+3.2",Recife,-1,-1,-1,-1,-1,-1,-1,0,0,67,137,"Blueprint Medicines
+", MA,9,0,0,0,0,1
+Cientista de Dados,-1,"Graduação em Engenharia de Software, Ciências da Computação ou áreas afins.
+
+DESCRIÇÃO DE ATIVIDADES:
+Levantamento e análise de requisitos;
+Análise de riscos e impactos;
+Gestão de projetos;
+Gerenciamento de requisitos.
+Conhecimento em metodologias ágeis de desenvolvimento de software (Scrum);
+Facilidade em comunicação;
+Conhecimento em regras de negócio
+BENEFÍCIOS:
+Plano de Carreira;
+
+Plano de Saúde de UNIMED Nacional ou Santa Casa;
+
+Plano Odontológico;
+
+Vale Alimentação;
+
+Vale Transporte;
+
+Convênio Farmácia;
+
+Cartão Qualidade de Vida;
+
+Lanche durante a manhã e tarde;
+
+Folga no dia do aniversário.",3.8,"ACCION
+3.8",Maringá,-1,-1,-1,-1,-1,-1,-1,0,0,118,189,"h2o.ai
+", CA,9,1,0,1,1,1
+Cientista de Dados,-1,"Venha ser um digital transformer com a Datainfo. Somos uma empresa CMMI Dev nível 03, certificada Great Place To Work e em expansão na região de Florianópolis.
+
+Se você está em busca de desafios e tem a intenção de crescer em uma das 200 maiores empresas de TI do Brasil, chegou a hora: preencha seu currículo, queremos transformar junto com você.
+
+Responsabilidades e atribuições
+
+Análise e Desenvolvimento de sistemas.
+
+Requisitos e qualificações
+
+Ensino superior completo;
+Conhecimento em Progress 11.7.5
+
+Informações adicionais
+
+Salário e benefícios à combinar.",4,"Requisita
+4.0",Florianópolis,-1,-1,-1,-1,-1,-1,-1,0,0,110,175,"Nuna
+", CA,10,0,0,0,0,0
+Cientista de Dados,-1,"Principais responsabilidades:
+Executar e manter o desenvolvimento e implantação de sistemas informatizados desenhando processos, dimensionando requisitos e funcionalidade dos sistemas, especificando sua arquitetura, escolhendo ferramentas de desenvolvimento, especificando programas e codificando aplicativos.
+Desenvolver customizações, relatórios, integrações com outros softwares (Web services/ API SOAP E REST) e pontos de entrada.
+Prestar suporte técnico ao cliente interno e elaborar documentação técnica.
+
+Requisitos da função e perfil de competências:
+Formação: Tecnologia da Informação ou áreas relacionadas;
+Experiência: pelo menos 2 anos com desenvolvimento em ADVPL/TL++- Protheus, HTML, CSS, JavaScript e PHP.
+Desejável: Conhecimento de estabilização e desenho de processos, com experiência de implantação de novas ferramentas sistêmicas e novas tecnologias.",3.7,"MOTA-ENGIL
+3.7",Belo Horizonte,-1,-1,-1,-1,-1,-1,-1,0,0,64,111,"Pinnacol Assurance
+", CO,105,1,0,0,0,1

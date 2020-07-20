@@ -2,7 +2,6 @@
 """
 Created on Tue Apr 14 08:27:28 2020
 
-@author: Ken
 """
 
 data_in = [3.6,
