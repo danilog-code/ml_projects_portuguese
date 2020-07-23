@@ -6,19 +6,20 @@
 
 
 ## Código e recursos utilizados 
-**Versão Python:** 3.7  
+**Versão Python:** 3.6
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, tensorflow  
 
 
-
 ## Análise Exploratória
-Visualização das distribuições dos dados e os valores para as várias variáveis categóricas e contínuas. 
+Visualização das distribuições dos dados e os valores para as várias variáveis categóricas e contínuas. Algumas variáveis categóricas foram transformadas com valores numéricos com o auxilio do OneHotEncoder.
+
 
 ## Criação do modelo 
-Primeiramente foi transformado variáveis categóricas em variáveis dummy. Também foi dividido os dados em treinamento e teste distribuido em 80% e 20% respectivamente.
+Após realizar a transformação das variáveis categóricas, os dados foram divididos treino e teste conforme distribuição em 80% e 20%.
 
-Foram implementação de dois modelos diferentes e avaliados utilizando métrica com facilidade de interpretar 
+Foram implementação de três modelos diferentes e avaliados utilizando métrica de matriz de confusão. 
 
-Dentre os modelos estão:
-**Random Forest**. 
- 
+Dentre os modelos utilizados estão:
+**Regressão Logística**
+**Random Forest**
+**Deep Learning**
