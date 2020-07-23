@@ -20,6 +20,6 @@ Após realizar a transformação das variáveis categóricas, os dados foram div
 Foram implementação de três modelos diferentes e avaliados utilizando métrica de matriz de confusão. 
 
 Dentre os modelos utilizados estão:
-**Regressão Logística**
-**Random Forest**
+**Regressão Logística,**
+**Random Forest** e
 **Deep Learning**
