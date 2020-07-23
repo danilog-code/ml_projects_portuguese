@@ -17,7 +17,7 @@ Visualização das distribuições dos dados e os valores para as várias variá
 ## Criação do modelo 
 Após realizar a transformação das variáveis categóricas, os dados foram divididos treino e teste conforme distribuição em 80% e 20%.
 
-Foram implementação de três modelos diferentes e avaliados utilizando métrica de matriz de confusão. 
+Foram feitas implementações de três modelos diferentes e avaliados utilizando métrica de validação. 
 
 Dentre os modelos utilizados estão:
 **Regressão Logística,**
