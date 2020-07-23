@@ -1,8 +1,7 @@
 
 # Indice de satisfação de colaborador:
 * Análise para verificar o grau de satisfação de colaboradores para auxiliar o departamento de recursos humanos com ações de retenção e diminuição de custos com contração. Criação de modelo que permita prever a probabilidade de um colaborador deixar a empresa.
-* Features projetadas a partir análise exploratória para quantificar o grau de satisfação dos colaboradores em relação a empresa 
-* Otimização Random Forest utilizando GridsearchCV para atingir o melhor modelo. 
+* Features projetadas a partir de análise exploratória para quantificar o grau de satisfação dos colaboradores em relação a empresa 
 
 
 ## Código e recursos utilizados 
