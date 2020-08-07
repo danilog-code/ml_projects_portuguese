@@ -19,7 +19,7 @@ Mestrado e doutorado em História da Ciência pela Pontifícia Universidade Cat�
 ## Portfólio de alguns projetos em ciência de dados:
 1. [Data Science Pipeline Project](https://github.com/danilog-code/datascience_portfolio/tree/master/DataSciencePipelineProject)
 
-2. [Estimador de Salário Glassdoor](https://github.com/danilog-code/datascience_portfolio/tree/master/EstimadorSalarioGlassdor)
+2. [Previsão de com Séries Temporais](https://github.com/danilog-code/datascience_portfolio/tree/master/PrevisaoVendas)
 
 3. [Prevenção de Contratação de RH](https://github.com/danilog-code/datascience_portfolio/tree/master/RecursosHumanos)
 
