@@ -19,4 +19,4 @@ A análise exploratória foi feita no intuito de reconhecer como diferentes vari
 
 
 ## Criação do modelo 
-O modelo será otimizado com o auxílio da ferramenta [Prophet](https://research.fb.com/prophet-forecasting-at-scale) do facebook para criação de séries temporais.s.
+O modelo será otimizado com o auxílio da ferramenta [Prophet](https://research.fb.com/prophet-forecasting-at-scale) do facebook para criação de séries temporais.
