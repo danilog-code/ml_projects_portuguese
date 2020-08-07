@@ -3,7 +3,7 @@
 
 * O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar a previsão de vendas no intuito de ajudar o departamento melhorar seus ganhos e benefícios quando estiverem em busca de selecionar campanhas promocionais.
 
-* Será realizado como atividade principal análise exploratória, a fim de identificar possíveis correlações, tendencias e problemas com os dados. Logo após elaborar features através do conteúdo extraído do conteúdo histórico das vendas.
+* Será realizado como atividade principal análise exploratória, a fim de identificar possíveis correlações, tendencias e problemas com os dados. Logo após elaborar features através do conteúdo extraído do histórico das vendas.
 
 * Em seguida será criado um modelo de machine learning que faz utilização das features recém criadas para então
 tentar identificar e predizer tendencias de vendas futuras conforme estudos em períodos e datas específicas como feriados e épocas festivas.
