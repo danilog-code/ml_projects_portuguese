@@ -3,13 +3,18 @@
 * Scrapping de 1000 vagas de trabalho do glassdoor utilizando python selenium
 * Features projetadas a partir do texto de cada cargo para quantificar o valor que as empresas empregam em habilidades como python, excel, aws e spark 
 * Otimização Regressão Linear, Lasso e Random Forest utilizando GridsearchCV para alcancar o melhor modelo. 
-* Construção de uma interface com api flask 
+* Construção de uma interface com api flask
+
+# Licença
+* Este projeto foi concebido apenas como fins didáticos e de aprendizagem para a comunidade de cientista de dados do Brasil
+* Direitos reservados da série data sciente project from scratch do canal do **Ken Jee** 
+* Youtube: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t 
 
 ## Código e recursos utilizados 
 **Versão Python:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Artigo:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle 
+**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium
+**Artigo:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 **Flask:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 
