@@ -11,11 +11,16 @@
 * Youtube: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t 
 
 ## Código e recursos utilizados 
-**Versão Python:** 3.7  
+**Versão Python:** 3.7
+
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle 
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium
-**Artigo:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-**Flask:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+ 
+**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium 
+
+**Artigo:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905 
+
+**Flask:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2 
+
 
 
 ## Web Scraping
