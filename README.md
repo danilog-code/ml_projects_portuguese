@@ -5,7 +5,7 @@
 # Danilo Gustavo Bispo
 <sub>*Ciência e Tecnologia</sub>
 
-Mestrado e doutorado em História da Ciência pela Pontifícia Universidade Católica de São Paulo. Graduação em Ciência da Computação. Experiência em ciência da Experiência em TI com ênfase em desenvolvimento de sistemas, análise de dados, aprendizagem de máquina e teoria da computação. Graduado em Ciência da Computação com mestrado e doutorado em História da Ciência e Tecnologia pela Pontifícia Universidade Católica de São Paulo. Atuação no mercado nos ramos de automação industrial, comercial e financeiro. No momento realizando pesquisa no campo de ciência de dados com utilização extensiva de ambiente de big data e técnicas de inteligência artificial.
+Mestrado 
 
 
 **Background in:** Computação, Estatística, Ciência de Dados.
